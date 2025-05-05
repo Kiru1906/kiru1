@@ -1,0 +1,82 @@
+*{
+    margin:0;
+    padding: 0;
+}
+body{
+    background-image: url('pexels-cenali-2733918.jpg');
+    background-size: cover;
+}
+.Grocs{
+    background-color: black;
+    color:white;
+    padding: 20px;
+}
+
+ul,h1,li{
+    display: inline;
+}
+
+ul{
+    margin-left: 70%;
+    color:grey;
+
+}
+li{
+    cursor: pointer;
+}
+li:hover{
+    color: green;
+}
+
+.Search:hover{
+    background-color:green;
+    color:black;
+    padding:40px;
+    button:60%;
+    
+}
+input{
+    width:70%;
+}
+
+.box{
+    color:black;
+    font-size: medium;
+    border-style:solid;
+    display: inline-block;
+    border-width: 5px;
+    padding:30px;
+
+}
+img{
+    width:200px;
+    paddin:10px;
+    
+}
+button{
+    background-color: aquamarine;
+    color: black;
+}
+.box1{
+    font-size: medium;
+    display:inline-block;
+    color:black;
+    border-width: 5px;
+    border-style: solid;
+    padding: 30px;
+    
+}
+.box:hover{
+    background-color:red;
+    color:black;
+
+    
+}
+.box1:hover{
+    background-color:red;
+    color: black;
+}
+
+
+
+
